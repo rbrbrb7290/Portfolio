@@ -100,14 +100,17 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 </pre>
 #### 스마트팜 Before.
 <div>
- <img src="./smartfarm/vietnam_before.jpg" width="300px height="200px"></img>
- <img src="./smartfarm/1.jpg" width="300px height="200px"></img>     
- <img src="./smartfarm/3.jpg" width="300px height="200px"></img>   
+ <img src="./smartfarm/vietnam_before.jpg" width="280px height="200px"></img>
+ <img src="./smartfarm/1.jpg" width="280px height="200px"></img>     
+ <img src="./smartfarm/3.jpg" width="280px height="200px"></img>   
 </div>
+ 
 #### 스마트팜 After.
+
 <div>
  <img src="./smartfarm/vietnam_after.jpg" width="400px height="200px"></img>
 </div>
+                                                                     
 - **어려웠던 점**<br>
 <pre>
 - 우선 베트남의 무덥고 습한 날씨, 통풍이 안되는 하우스안에서 작업을 했기에 하드웨어를 설치하는데 어려움이 있었습니다.  
