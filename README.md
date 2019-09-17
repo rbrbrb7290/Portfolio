@@ -101,7 +101,7 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 #### 스마트팜 Before.
 <div>
  <img src="./smartfarm/vietnam_before.jpg" width="300px height="200px"></img>
- <img src="./smartfarm/2.jpg" width="300px height="200px"></img>     
+ <img src="./smartfarm/1.jpg" width="300px height="200px"></img>     
  <img src="./smartfarm/3.jpg" width="300px height="200px"></img>   
 </div>
 #### 스마트팜 After.
