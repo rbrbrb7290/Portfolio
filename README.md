@@ -99,9 +99,9 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
  3. 아두이노 D1R1보드를 사용해서 서버와 HTTP통신하는 작업을 맡았고, Server작업 보조
 </pre>
 #### 스마트팜 Before.
-![ex_screenshot](./smartfarm/vietnam_before.png)<br>
+![ex_screenshot](./smartfarm/vietnam_before.jpg)<br>
 #### 스마트팜 After.
-![ex_screenshot](./smartfarm/vietnam_after.png)<br>
+![ex_screenshot](./smartfarm/vietnam_after.jpg)<br>
 - **어려웠던 점**<br>
 <pre>
 - 우선 베트남의 무덥고 습한 날씨, 통풍이 안되는 하우스안에서 작업을 했기에 하드웨어를 설치하는데 어려움이 있었습니다.  
