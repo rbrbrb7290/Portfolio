@@ -86,7 +86,7 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
    족시키게 만들었습니다.
 </pre>
 
-### 5. BietNam SmartFarm Project( 저장소: https://github.com/rbrbrb7290/Arduino )
+### 5. BietNam SmartFarm Project( 저장소: https://github.com/smartfarmvietnam/Arduino/blob/master/GET_request/GET_request.ino )
 - **개발 정보:Arduino , C++ , Node.js &nbsp; 개발 기간: 2019.08.04 - 2019.08.21 <br>
 &nbsp; &nbsp; NIA(한국정보진흥원)주관, 제주대학교 SW중심대학 소개를 통해 베트남 '박리에우' 지역 대학교에 봉사활동 명목으로 파견을 나갔습니다.
 아두이노 기기를 통해 현지 시간과 습도를 측정, 농장에 자동화를 위한 하드웨어를 설치하고 프로그래밍을 통해 LED조명, 워터펌프를 자동화시켰습니다. 
