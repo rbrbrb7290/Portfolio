@@ -112,7 +112,8 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 <div>
  <img src="./dodoongtack/start.png" width="400px height="400px"></img>
  <img src="./dodoongtack/dockerCompose.png" width="400px height="400px"></img>     
- <img src="./dodoongtack/spring.png" width="400px height="400px"></img>   
+ <img src="./dodoongtack/spring.png" width="400px height="400px"></img>
+ <img src="./dodoongtack/view.png" width="400px height="400px"></img>   
 </div>
  
 - **내용**<br>
@@ -136,7 +137,7 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 
 <div>
  <img src="./myLittleTicket/teammember.jpeg" width="350px height="300px"></img>
- <img src="./myLittleTicket/prize.jpeg" width="230px height="200px"></img>     
+ <img src="./myLittleTicket/prize.jpeg" width="250px height="230px"></img>     
 </div>
  
 - **내용**<br>
