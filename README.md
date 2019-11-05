@@ -108,10 +108,12 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 
 ### 5. 두둥탁(Do Doong Tack!)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
 - **개발 정보:JAVA, Spring Boot , JavaScript , Thymeleaf &nbsp; 개발 기간: 2019.04 - 개발중**  <br>
-  &nbsp; &nbsp; 학과 전공과목 중 카카오 현직 개발자님께서 직접 강의를 해주시는 카카오트랙 과목들이 있습니다. 
-  그 중'포털서비스 개발방법론'수업에서 스프링을 가르쳐 주셨는데 기말고사 과제로 진행했던 프로젝트입니다. 
-  미완성 프로젝트였지만 끝까지 완성해보고자 다시 개발을 시작했습니다.
-- **무슨 프로젝트인데?**<br>
+<div>
+ <img src="./smartfarm/vietnam_before.jpg" width="280px height="200px"></img>
+ <img src="./smartfarm/1.jpg" width="280px height="200px"></img>     
+ <img src="./smartfarm/3.jpg" width="280px height="200px"></img>   
+</div>
+- **내용**<br>
   간단한 클릭만으로도 웹사이트를 만들수있어서 컴퓨터를 몰라도 손쉽게 개인 쇼핑몰을 운영할수있게 만드는 서비스입니다.
 - **어려웠던 점**<br>
 <pre>
@@ -126,23 +128,25 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 빌드가 성공하고 저의 노력이 눈앞에 모니터에 출력되었을때 느껴지는 희열이 너무나도 컸습니다. 
 이 프로젝트를 진행하고나서 컴퓨터 코어에 대한 기본지식이 탄탄하다면 다른 언어, 다른 영역의 개발을 하게되어도 금방 배울수있다는 것을 알게 되었습니다. 
 
-### 6. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
+### 6. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour/seller-server.git )
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL**
 - **개발 기간: 2019.04 - 개발중**  <br>
-- **무슨 프로젝트인데?**<br>
+<div>
+ <img src="./smartfarm/vietnam_before.jpg" width="280px height="200px"></img>
+ <img src="./smartfarm/1.jpg" width="280px height="200px"></img>     
+ <img src="./smartfarm/3.jpg" width="280px height="200px"></img>   
+</div>
+- **내용**<br>
   마리켓은 판매자가 무형 상품(콘서트 , 쿠폰)을 등록하면, 사용자가 상품을 구매하여 모바일 QR코드 티켓을 발급 받게 됩니다.
 이 티켓은 행사 당일 QR리더기를 통해 사용처리 할 수 있습니다.
-- **어려웠던 점**<br>
-<pre>
-- DynamoDB 설계 시, RDB에 개념에서 벗어나지 못해 개념을 익히는데 어려웠습니다.
-- 
--  
-- 
-- 
+
+- **기여**<br>
+AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 판매자 서버를 제작했습니다.
+
 </pre>
 - **느낀점**<br>
-기능구현을 할때마다 어렵게만 느껴져서 기피했던 백엔드 개발에 대한 지식들을 마주하는것이 힘이들었지만, 
-빌드가 성공하고 저의 노력이 눈앞에 모니터에 출력되었을때 느껴지는 희열이 너무나도 컸습니다. 
-이 프로젝트를 진행하고나서 컴퓨터 코어에 대한 기본지식이 탄탄하다면 다른 언어, 다른 영역의 개발을 하게되어도 금방 배울수있다는 것을 알게 되었습니다.
+기존에 사용해오던 기술이 아닌 새로운 영역에 기술들을 접하면서 많은 어려움이 많았지만, 주마다 팀원들이 각자 맡은 파트에서 학습한 부분을 세미나 식으로 발표했고 의견을 나누면서 몰랐던 부분을 알게 되면서 서서히 개념이 잡히게 되었습니다.
+이번 기회를 통해서 프로그램의 퍼포먼스의 효율을 높혀주는 여러 기술들이 많다는 것을 알았고, 새로운것을 알아간다는 것에 재미도 다시 한번 느낄 수 있었습니다. 또 뒤쳐지지 않는 개발자가 되기 위해 기술 컨퍼런스를 자주 찾아보는 습관을 들여야겠다 생각했습니다.
+
 
 
