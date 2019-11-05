@@ -108,11 +108,13 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 
 ### 5. 두둥탁(Do Doong Tack!)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
 - **개발 정보:JAVA, Spring Boot , JavaScript , Thymeleaf &nbsp; 개발 기간: 2019.04 - 개발중**  <br>
+
 <div>
- <img src="./smartfarm/vietnam_before.jpg" width="280px height="200px"></img>
- <img src="./smartfarm/1.jpg" width="280px height="200px"></img>     
- <img src="./smartfarm/3.jpg" width="280px height="200px"></img>   
+ <img src="./dodoongtack/start.png" width="400px height="400px"></img>
+ <img src="./dodoongtack/dockerCompose.png" width="400px height="400px"></img>     
+ <img src="./dodoongtack/spring.png" width="400px height="400px"></img>   
 </div>
+ 
 - **내용**<br>
   간단한 클릭만으로도 웹사이트를 만들수있어서 컴퓨터를 몰라도 손쉽게 개인 쇼핑몰을 운영할수있게 만드는 서비스입니다.
 - **어려웠던 점**<br>
@@ -131,11 +133,12 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 ### 6. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour/seller-server.git )
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL**
 - **개발 기간: 2019.04 - 개발중**  <br>
+
 <div>
- <img src="./smartfarm/vietnam_before.jpg" width="280px height="200px"></img>
- <img src="./smartfarm/1.jpg" width="280px height="200px"></img>     
- <img src="./smartfarm/3.jpg" width="280px height="200px"></img>   
+ <img src="./myLittleTicket/teammember.jpeg" width="350px height="300px"></img>
+ <img src="./myLittleTicket/prize.jpeg" width="230px height="200px"></img>     
 </div>
+ 
 - **내용**<br>
   마리켓은 판매자가 무형 상품(콘서트 , 쿠폰)을 등록하면, 사용자가 상품을 구매하여 모바일 QR코드 티켓을 발급 받게 됩니다.
 이 티켓은 행사 당일 QR리더기를 통해 사용처리 할 수 있습니다.
