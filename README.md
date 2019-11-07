@@ -4,7 +4,7 @@
 ### 1. 제대로 가자 ( 저장소: https://github.com/aerain/jedaeroReactNative )<br> 
 - **개발 정보: React-Native &nbsp; 개발 기간: 2018-07-26 - 2019-04-07**<br>
 &nbsp; &nbsp; 기존에 만들었던 제주대학교에 다양한 정보를 제공하는 웹앱인 '제대로 가자'의 서버 상시 오픈의 문제점과 프론트엔드와 백엔드의 알고리즘의 문제점을 고치고, 앱을 통해서 언제든지 필요한 정보를 얻게 하기 위해서 리뉴얼을 기획했습니다. 사용언어는 하나의 코드로 ios ,android 앱을 동시 개발할 수 있는 React-Native를 사용했습니다.<br>
-&nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! 
+&nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! <br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative**
 <pre> 기능 소개
  - 교내 순환버스 출발시간
@@ -132,7 +132,7 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 이 프로젝트를 진행하고나서 컴퓨터 코어에 대한 기본지식이 탄탄하다면 다른 언어, 다른 영역의 개발을 하게되어도 금방 배울수있다는 것을 알게 되었습니다. 
 
 ### 7. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour/seller-server.git )
-- **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL**
+- **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL, Docker, Travis**
 - **개발 기간: 2019.04 - 개발중**  <br>
  
 - **내용**<br>
