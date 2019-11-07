@@ -131,7 +131,7 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 빌드가 성공하고 저의 노력이 눈앞에 모니터에 출력되었을때 느껴지는 희열이 너무나도 컸습니다. 
 이 프로젝트를 진행하고나서 컴퓨터 코어에 대한 기본지식이 탄탄하다면 다른 언어, 다른 영역의 개발을 하게되어도 금방 배울수있다는 것을 알게 되었습니다. 
 
-### 7. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour/seller-server.git ) &nbsp; [![Build Status](https://travis-ci.org/mrfourfour/seller-server.svg?branch=master)](https://travis-ci.org/mrfourfour/seller-server) <br>
+### 7. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour/seller-server.git ) 
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL, Docker, Travis**
 - **개발 기간: 2019.04 - 개발중** <br>
 - **내용**<br>
