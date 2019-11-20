@@ -7,7 +7,9 @@
 &nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! <br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative** <br>
 **App Store: https://apps.apple.com/kr/app/제대로-가자/id1477790014** <br>
-<hr>
+
+***
+
 - **기능 소개** <br>
    - 교내 순환버스 출발시간
    - 도서관 내 도서검색
