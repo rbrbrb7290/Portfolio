@@ -7,9 +7,7 @@
 &nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! <br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative** <br>
 **App Store: https://apps.apple.com/kr/app/제대로-가자/id1477790014** <br>
-
-***
-
+<br>
 - **기능 소개** <br>
    - 교내 순환버스 출발시간
    - 도서관 내 도서검색
@@ -33,6 +31,7 @@
 &nbsp; &nbsp; 캐글코리아에서 주최한 '타이타닉 생존자 예측'대회에 참여해서 직접 데이터 분석을 하고 모델링을 해서 정확도를 검증해 대회에 제출하기 까지에 과정을 발표하는 모임을 가졌습니다.
 ![ex_screenshot](./img/machine_learning.png) <br>
 
+<hr>
 
 ### 3. GIFT ( 저장소: https://github.com/g-i-f-t/GiftApplication )<br>
 - **개발 정보: SpringBoot, Android , mariaDB  &nbsp; 개발 기간: 2019.04.10 - 2019.06.11** <br>
@@ -51,6 +50,7 @@
    3. 자동로그인 구현
    4. 인벤 인디뉴스 게시판 , 인디게임 카페 게시판 크롤링을 통해  인디게임 정보제공
 <br>
+<hr>
 
 ### 4. 환절기 저리 가!습기야( 저장소: https://github.com/rbrbrb7290/Arduino )
 - **개발 정보:Android , C++ &nbsp; 개발 기간: 2018.11 - 2018.12** <br>
@@ -71,6 +71,7 @@
   아두이노 에서는 'o' ,'n' 이렇게 1byte씩 받아와서 조건문이 충족되지 않았습니다.
 -   이러한 문제를 해결하기위해 받아오는 char형 data를 String으로 형 변환을 시켜주고 
   두 글자를 합쳐서 새로운 변수에 담아 보내서 조건문을 충족시키게 만들었습니다.
+<hr>
 
 ### 5. BietNam SmartFarm Project( 저장소: https://github.com/smartfarmvietnam/Arduino )
 -  **개발 정보:Arduino , C++ , Node.js &nbsp; 개발 기간: 2019.08.04 - 2019.08.21** <br>
@@ -101,6 +102,7 @@
  - 아두이노 기기를 사용할때 전기,전류에 대해서도 어느정도 알고있어야 하기에 새로운 센서,보드를 사용할때마다 공부해나가야하는 어려움. 
  - 실제 농장에 아두이노를 설치할때 기본적으로 제공되는 케이블의 길이가 너무 짧았고, 습기에 대해 안전한 UTP선으로 대체하기로 했습니다. 
  - 베트남 현지 사람들과 작업을 하는데에 있어서 의사소통이 잘 안되는 문제가 있었습니다.
+<hr>
 
 ### 6. 두둥탁(Do Doong Tack!)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
 - **개발 정보:JAVA, Spring Boot , JavaScript , Thymeleaf &nbsp; 개발 기간: 2019.04 - 개발중**  <br>
@@ -125,6 +127,7 @@
 &nbsp; &nbsp; 기능구현을 할때마다 어렵게만 느껴져서 기피했던 백엔드 개발에 대한 지식들을 마주하는것이 힘이들었지만, <br> 
 빌드가 성공하고 저의 노력이 눈앞에 모니터에 출력되었을때 느껴지는 희열이 너무나도 컸습니다. <br>
 &nbsp; &nbsp; 이 프로젝트를 진행하고나서 컴퓨터 코어에 대한 기본지식이 탄탄하다면 다른 언어, 다른 영역의 개발을 하게되어도 금방 배울수있다는 것을 알게 되었습니다. 
+<hr>
 
 ### 7. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour) 
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL, Docker, Travis**
