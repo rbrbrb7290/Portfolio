@@ -7,7 +7,7 @@
 &nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! <br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative** <br>
 **App Store: https://apps.apple.com/kr/app/제대로-가자/id1477790014** <br>
-<br>
+
 - **기능 소개** <br>
    - 교내 순환버스 출발시간
    - 도서관 내 도서검색
@@ -30,7 +30,6 @@
 - **개발 정보: python, jupyter , pandas &nbsp; 개발 기간: 2019.02 - 2019.03** <br>
 &nbsp; &nbsp; 캐글코리아에서 주최한 '타이타닉 생존자 예측'대회에 참여해서 직접 데이터 분석을 하고 모델링을 해서 정확도를 검증해 대회에 제출하기 까지에 과정을 발표하는 모임을 가졌습니다.
 ![ex_screenshot](./img/machine_learning.png) <br>
-
 <hr>
 
 ### 3. GIFT ( 저장소: https://github.com/g-i-f-t/GiftApplication )<br>
