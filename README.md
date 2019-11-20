@@ -7,6 +7,7 @@
 &nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! <br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative** <br>
 **App Store: https://apps.apple.com/kr/app/제대로-가자/id1477790014** <br>
+<hr>
 - **기능 소개** <br>
    - 교내 순환버스 출발시간
    - 도서관 내 도서검색
@@ -22,6 +23,8 @@
    - 버스시간 탭:  평일,주말 구분 / 정류장별 도착시간 알고리즘 제작  , 버스 시간 실시간 refresh 구현 
    - 식당 메뉴 탭:  Main에서는 메뉴를 일부만 보여주는데 탭을 터치 했을때 금일 메뉴를 보여주는 기능 구현
    - 개발자 정보: 개발자 정보, github 주소제공 , 개발에 사용한 오픈소스 라이선스를 명시하는 뷰 생성 
+
+<hr>
 
 ### 2. 캐글(Kaggle) 타이타닉 컴피티션 밋업<br>
 - **개발 정보: python, jupyter , pandas &nbsp; 개발 기간: 2019.02 - 2019.03** <br>
