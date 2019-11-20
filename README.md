@@ -134,7 +134,7 @@ DB설계 후 안드로이드 앱 파트를 담당하게 되었습니다.
 
 ### 7. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour) 
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL, Docker, Travis**
-- **개발 기간: 2019.04 - 개발중** &nbsp;[![Build Status](https://travis-ci.org/mrfourfour/seller-server.svg?branch=master)](https://travis-ci.org/mrfourfour/seller-server) <br>
+- **개발 기간: 2019.09 - 개발중** &nbsp;[![Build Status](https://travis-ci.org/mrfourfour/seller-server.svg?branch=master)](https://travis-ci.org/mrfourfour/seller-server) <br>
 - **내용**<br>
   마리켓은 판매자가 무형 상품(콘서트 , 쿠폰)을 등록하면, 사용자가 상품을 구매하여 모바일 QR코드 티켓을 발급 받게 됩니다.
 이 티켓은 행사 당일 QR리더기를 통해 사용처리 할 수 있습니다.
