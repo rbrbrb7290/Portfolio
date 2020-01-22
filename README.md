@@ -77,8 +77,10 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
 <hr>
 
 ### 4. 제대로 가자 ( 저장소: https://github.com/aerain/jedaeroReactNative )<br> 
-- **개발 정보: React-Native &nbsp; 개발 기간: 2018-07-26 - 2019-04-07**<br>
+- **개발 정보: React-Native &nbsp; 개발 기간: 2018-07-26 - 2019-04-07**
 - **유형: 팀 프로젝트**
+
+- **내용**<br>
 &nbsp; &nbsp; 기존에 만들었던 제주대학교에 다양한 정보를 제공하는 웹앱인 '제대로 가자'의 서버 상시 오픈의 문제점과 프론트엔드와 백엔드의 알고리즘의 문제점을 고치고, 앱을 통해서 언제든지 필요한 정보를 얻게 하기 위해서 리뉴얼을 기획했습니다. 사용언어는 하나의 코드로 ios ,android 앱을 동시 개발할 수 있는 React-Native를 사용했습니다.<br>
 &nbsp; &nbsp; 현재 교내 동아리, 기자단, 사업단에서 계속해서 인터뷰 제의가 올 정도로 많은 사람들이 관심을 가지고 있는 앱이 되었습니다! <br>
 **Play Store: https://play.google.com/store/apps/details?id=com.jedaeroreactnative** <br>
@@ -90,8 +92,7 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
    - 제주대 공식 학사일정
    - 학식 및 기숙사식당 주간 요일별 메뉴
    - 스마트출석 페이지 re-Direction
-   - 캠퍼스 내 식당들과 배달 가능 식당 전화번호 re-Direction
-<br>
+   - 캠퍼스 내 식당들과 배달 가능 식당 전화번호 Re-Direction
 
 ![ex_screenshot](./img/jedaero.png) <br> 
 - **역할( 앱 아이콘 제작, 스플래쉬 화면 제작 등 앱의 전체적인 프론트)**<br>
@@ -103,15 +104,19 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
 <hr>
 
 ### 5. 캐글(Kaggle) 타이타닉 컴피티션 밋업<br>
-- **개발 정보: python, jupyter , pandas &nbsp; 개발 기간: 2019.02 - 2019.03** <br>
+- **개발 정보: python, jupyter , pandas &nbsp; 개발 기간: 2019.02 - 2019.03** 
 - **유형: 팀 프로젝트**
+
+- **내용**<br>
 &nbsp; &nbsp; 캐글코리아에서 주최한 '타이타닉 생존자 예측'대회에 참여해서 직접 데이터 분석을 하고 모델링을 해서 정확도를 검증해 대회에 제출하기 까지에 과정을 발표하는 모임을 가졌습니다.
 ![ex_screenshot](./img/machine_learning.png) <br>
 <hr>
 
 ### 6. GIFT ( 저장소: https://github.com/g-i-f-t/GiftApplication )<br>
-- **개발 정보: SpringBoot, Android , mariaDB  &nbsp; 개발 기간: 2019.04.10 - 2019.06.11** <br>
+- **개발 정보: SpringBoot, Android , mariaDB  &nbsp; 개발 기간: 2019.04.10 - 2019.06.11**
 - **유형: 팀 프로젝트**
+
+- **내용**<br>
 &nbsp; &nbsp; GIFT( Game Industy Funding Trade )는 인디게임을 출시하고 싶지만 초기자본을 구하기 어려운 개발자들을 위해서 크라우드 펀딩을 통해 자금을 지원하는 서비스입니다.
 - **기능** <br>
   - 금융결제원 API 연동 
@@ -119,8 +124,6 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
   - 투자정보 타임라인 제공
   - 개발된 인디게임(모바일,pc)정보 제공
   - 개발자 앱과 연동 (펀딩상품 관리가능)
-  
-<br>
 
 ![ex_screenshot](./img/gift.png)<br>
 - **역할( MariaDB설계, 사용자 앱 제작 )**<br> 
@@ -134,14 +137,12 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
 ### 7. 환절기 저리 가!습기야( 저장소: https://github.com/rbrbrb7290/Arduino )
 - **개발 정보:Android , C++ &nbsp; 개발 기간: 2018.11 - 2018.12** <br>
 - **유형: 개인 프로젝트**
+- **내용**<br>
 &nbsp; &nbsp; 겨울철 환절기때마다 건조함에 찾아오는 인후통이 잦은 사람들의 가습기 사용은 필수적입니다. 아팠을때 가습기 전원을 조종하는 것조차 힘들었던 기억을 살려서'전원을 원격으로 제어하거나 센서를 통해서 자동으로 가습기 전원을 제어 할 수 있다면 좋지 않을까?'라는 생각에서 시작한 프로젝트입니다!<br>
 **기능 소개** <br>
   - 스마트폰과 아두이노 사이에 블루투스 통신을 합니다.
   - 개조한 멀티탭과 연결된 릴레이 모듈을 통해서 가습기를 on/off합니다.
   - 가습기가 켜지면 온습도센서가 동작하여 일정 습도가 되면 가습기가 on/off되게 됩니다.  
-  
-<br>
-
 #### 작동 과정입니다.
 ![ex_screenshot](./img/arduino.png)<br>
 #### 전체 구성 사진입니다.
@@ -153,12 +154,12 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
      아두이노 에서는 'o' ,'n' 이렇게 1byte씩 받아와서 조건문이 충족되지 않았습니다.
    -   이러한 문제를 해결하기위해 받아오는 char형 data를 String으로 형 변환을 시켜주고 
      두 글자를 합쳐서 새로운 변수에 담아 보내서 조건문을 충족시키게 만들었습니다.
-  
 <hr>
 
 ### 8. BietNam SmartFarm Project( 저장소: https://github.com/smartfarmvietnam/Arduino )
 - **개발 정보:Arduino , C++ , Node.js &nbsp; 개발 기간: 2019.08.04 - 2019.08.21** <br>
 - **유형: 개인 프로젝트**
+- **내용**<br>
 &nbsp; &nbsp; NIA(한국정보진흥원)주관, 제주대학교 SW중심대학 소개를 통해 베트남 '박리에우' 지역 대학교에 봉사활동 명목으로 파견을 나갔습니다. <br>
 &nbsp; &nbsp; 아두이노 기기를 통해 현지 시간과 습도를 측정, 농장에 자동화를 위한 하드웨어를 설치하고 프로그래밍을 통해 LED조명, 워터펌프를 자동화시켰습니다. 
 그리고 데이터 수집을 위해 node.js서버를 만들어 온습도 데이터를 DB에 저장시키도록 했습니다. 
@@ -167,8 +168,6 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
   - 아두이노와 서버간의 통신 구조, 실제 농장의 설치할 기기 구상도 설계 
   - 아두이노 D1R1보드를 사용해서 서버와 HTTP통신하는 작업을 맡았고, Server작업 보조
   - 농장 관리자가 스마트폰으로도 데이터값을 수시로 확인할수있게 반응형 웹 프론트 페이지 제작
-  
-<br>
 
 #### 스마트팜 Before.
 <div>
