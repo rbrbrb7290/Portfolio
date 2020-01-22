@@ -61,16 +61,18 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
 
 - **내용**<br>
   제주 코딩 베이스 캠프를 주관하는 회사인'바울랩'에서 만든 IT교육 영상 컨텐츠를 제공하는 앱입니다.
+  
 <div>
  <img src="./img/JejuCodingBaseCamp.png"></img>
 </div>
+
 - **역할**<br>
-1. 주로 사용될 YouTube Data API 조사
-2. 과도한 API 호출량을 줄이기 위해 YouTube 영상들을 주제별로 묶어 플레이 리스트에 정리
-3. 플레이 리스트들에 'id'를 추출하고 Drawer-Navigator를 사용해 탭 메뉴 구성
-4. 앱에 전체적인 흐름은 '메뉴 -> 영상 리스트 -> 영상 화면' 이므로 리스트와 화면에 대한 재사용 뷰 구성
-6. API중 /playlistItems를 사용해서 각 영상별 'id' 추출 후, 영상 터치 시 'react-native-youtube' 라이브러리를 통해 영상 화면 뷰에서 재생
-7. 플레이 콘솔에서 FirebaseTest로 기기 테스트 후 앱 등록
+  - 주로 사용될 YouTube Data API 조사
+  - 과도한 API 호출량을 줄이기 위해 YouTube 영상들을 주제별로 묶어 플레이 리스트에 정리
+  - 플레이 리스트들에 'id'를 추출하고 Drawer-Navigator를 사용해 탭 메뉴 구성
+  - 앱에 전체적인 흐름은 '메뉴 -> 영상 리스트 -> 영상 화면' 이므로 리스트와 화면에 대한 재사용 뷰 구성
+  - API중 /playlistItems를 사용해서 각 영상별 'id' 추출 후, 영상 터치 시 'react-native-youtube' 라이브러리를 통해 영상 화면 뷰에서 재생
+  - 플레이 콘솔에서 FirebaseTest로 기기 테스트 후 앱 등록
 이 밖에 ios는 소소한 요소들이 호환이 안되는 부분이 있어서 수정중에 있습니다.
 <hr>
 
