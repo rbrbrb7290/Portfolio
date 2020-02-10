@@ -1,5 +1,16 @@
 # HyeonGyu-OH!
 
+## Skill
+- JAVA
+- Spring Framework
+- JPA
+- Docker
+- React-Native
+- HTML/CSS/JavaScript
+- Git
+- OS(Windows, Mac)
+<hr>
+  
 ## Project
 
 ### 1. 두둥탁(Do Doong Tack!)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
@@ -36,6 +47,7 @@
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL, Docker, Travis**
 - **개발 기간: 2019.09 - 개발중** &nbsp;[![Build Status](https://travis-ci.org/mrfourfour/seller-server.svg?branch=master)](https://travis-ci.org/mrfourfour/seller-server) <br>
 - **유형: 팀 프로젝트**
+
 
 - **내용**<br>
   마리켓은 판매자가 무형 상품(콘서트 , 쿠폰)을 등록하면, 사용자가 상품을 구매하여 모바일 QR코드 티켓을 발급 받게 됩니다.
