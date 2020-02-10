@@ -9,7 +9,6 @@
 - HTML/CSS/JavaScript
 - Git
 - OS(Windows, Mac)
-<hr>
   
 ## Project
 
