@@ -74,7 +74,7 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
   제주 코딩 베이스 캠프를 주관하는 회사인'바울랩'에서 만든 IT교육 영상 컨텐츠를 제공하는 앱입니다.
   
 <div>
- <img src="./img/JejuCodingBaseCamp.png"></img>
+ <img src="./img/JejuCodingBaseCampRenewal.png"></img>
 </div>
 
 - **역할**<br>
