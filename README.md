@@ -65,7 +65,7 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
 &nbsp; &nbsp; 이번 기회를 통해서 프로그램의 퍼포먼스의 효율을 높혀주는 여러 기술들이 많다는 것을 알았고, 새로운것을 알아간다는 것에 재미도 다시 한번 느낄 수 있었습니다. 또 뒤쳐지지 않는 개발자가 되기 위해 기술 블로그, 레퍼런스를 자주 찾아보는 습관을 들여야겠다 생각했습니다.
 <hr>
 
-### 3. 제주 코딩 베이스 캠프( 저장소: https://github.com/rbrbrb7290/JejuCodingBaseCamp.git) 
+### 3. 제주 코딩 베이스 캠프( 저장소: https://github.com/Jecobae) 
 - **개발 정보: React-Native, YouTube Data API**
 - **개발 기간: 2020.01.06 - 2020.01.20**
 - **유형: 사내 프로젝트**
