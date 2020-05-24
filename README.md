@@ -201,6 +201,39 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
  
 <hr>
 
+### 9. 학교 시설 유지보수 관리 시스템( 저장소: https://github.com/rbrbrb7290/facility-management )<br>
+- **개발 정보: SpringBoot, JPA, Hibernate, Google AppEngine/Cloud SQL &nbsp; 
+개발 기간: 2020.05 - 개발중** 
+- **유형: 개인 프로젝트**
+
+- **내용**
+  - 교내 시설 유지보수 내역 확인, 관리하는 시스템 프로토타입 입니다.
+  - 클라우드에 배포한 서버와 디비가 연동이 안되지만, 로컬 서버와 연동 성공( 유지보수 데이터 CRUD)
+  - 추후 SPA적용을 위해 Webpack을 사용해 React 코드의 jsx, css 별도로 번들화하고 싱글 페이지 반환하기 완료
+#### 학교 맵
+<div>
+ <img src="./management/home.png" width="430px height="400px"></img>
+</div>
+
+#### 구역 클릭 시 유지보수 내역 출력
+<div>
+ <img src="./management/read.png" width="350px height="300px"></img>     
+</div>
+
+#### 시설 고장 신고
+<div>
+ <img src="./management/create.png" width="400px height="400px"></img> 
+</div>
+
+
+#### Admin 페이지 (요청받은 문제 진행 상황 수정, 삭제 가능)
+<div>
+  <img src="./management/admin.png" width="500px height="500px"></img>
+</div>
+<div>
+  <img src="./management/update.png" width="400px height="400px"></img>
+</div>
+<hr>
 
 
 
