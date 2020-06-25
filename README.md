@@ -18,7 +18,10 @@
 - **유형: 개인 프로젝트**
 
 - **내용**<br>
-  간단한 클릭만으로도 웹사이트를 만들수있어서 컴퓨터를 몰라도 손쉽게 개인 쇼핑몰을 운영할수있게 만드는 서비스입니다.
+  간단한 클릭만으로도 웹사이트를 만들 수 있어서 손쉽게 개인 쇼핑몰을 운영할 수 있는 환경을 제공해주는 서비스입니다.<br>
+  도커를 사용해 Spring 컨테이너 , DB컨테이너를 컴포즈 합니다. 이때 데이터 베이스 스키마가 자동생성이 됩니다. <br>
+  사용자가 쇼핑몰 이름, 이미지, 정보 등을 커스터 마이징 할 수 있습니다.
+  
 <div>
  <img src="./dodoongtack/start.png" width="400px height="400px"></img>
  <img src="./dodoongtack/dockerCompose.png" width="400px height="400px"></img>     
@@ -26,6 +29,8 @@
  <img src="./dodoongtack/view.png" width="400px height="400px"></img>   
 </div>
 
+<hr>
+<!-- 
 - **어려웠던 점**<br>
     -   Spring MVC패턴의 사이클을 이해하는 과정이 어려웠었고, HTTP통신에 대한 개념도 확실히 잡혀 있지 않던 상태라 
       많은 공부가 필요했습니다. 
@@ -35,12 +40,12 @@
     - Thymeleaf같은 템플릿엔진의 힘을 빌어 손쉽게json data를 view에 출력하는 것이 아닌, 비동기 HTTP통신을 해서 data를 받아오는 과정.
     - image를 서버에 받아 클라이언트에 보내는 과정이 힘들었습니다..   
 <br>
-
 - **느낀점**<br>
 &nbsp; &nbsp; 기능구현을 할때마다 어렵게만 느껴져서 기피했던 백엔드 개발에 대한 지식들을 마주하는것이 힘이들었지만, <br> 
 빌드가 성공하고 저의 노력이 눈앞에 모니터에 출력되었을때 느껴지는 희열이 너무나도 컸습니다. <br>
 &nbsp; &nbsp; 이 프로젝트를 진행하고나서 컴퓨터 코어에 대한 기본지식이 탄탄하다면 다른 언어, 다른 영역의 개발을 하게되어도 금방 배울수있다는 것을 알게 되었습니다. 
-<hr>
+
+-->
 
 ### 2. 마리켓(마이 리틀 티켓)( 저장소: https://github.com/mrfourfour) 
 - **개발 정보: Spring WebFlux, AWS(DynamoDB, Cognito, Elastic BeansTalk), Android, vue.js, graphQL, Docker, Travis**
@@ -52,7 +57,7 @@
   마리켓은 판매자가 무형 상품(콘서트 , 쿠폰)을 등록하면, 사용자가 상품을 구매하여 모바일 QR코드 티켓을 발급 받게 됩니다.
 이 티켓은 행사 당일 QR리더기를 통해 사용처리 할 수 있습니다.
 - **역할**<br>
-AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 판매자 서버(repo: seller-server)를 제작했습니다.
+AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 비동기 판매자 서버(repo: seller-server)를 제작했습니다.
 
 <div>
  <img src="./myLittleTicket/teammember.jpeg" width="350px height="300px"></img>
@@ -158,6 +163,9 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
 ![ex_screenshot](./img/arduino.png)<br>
 #### 전체 구성 사진입니다.
 ![ex_screenshot](./img/wide.png)<br>
+
+<hr>
+<!--
 - **어려웠던 점**<br>
    -   멀티탭을 개조하는 과정이 220V 전압을 다루는 작업이라 위험요소때문에 프로젝트를 중단할까 많이 고민했지만 
      한번 해보자해서 도전해봤습니다.
@@ -165,7 +173,7 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
      아두이노 에서는 'o' ,'n' 이렇게 1byte씩 받아와서 조건문이 충족되지 않았습니다.
    -   이러한 문제를 해결하기위해 받아오는 char형 data를 String으로 형 변환을 시켜주고 
      두 글자를 합쳐서 새로운 변수에 담아 보내서 조건문을 충족시키게 만들었습니다.
-<hr>
+-->
 
 ### 8. BietNam SmartFarm Project( 저장소: https://github.com/smartfarmvietnam/Arduino )
 - **개발 정보:Arduino , C++ , Node.js &nbsp; 개발 기간: 2019.08.04 - 2019.08.21** <br>
@@ -193,13 +201,16 @@ AWS DynamoDB를 사용해 DB제작을 하였고, Spring WebFlux를 사용해서 
  <img src="./smartfarm/vietnam_after.jpg" width="400px height="200px"></img>
 </div>
                                                                      
+<hr>    
+
+<!--                                                                     
 - **어려웠던 점**<br>
  - 우선 베트남의 무덥고 습한 날씨, 통풍이 안되는 하우스안에서 작업을 했기에 하드웨어를 설치하는데 어려움이 있었습니다.  
  - 아두이노 기기를 사용할때 전기,전류에 대해서도 어느정도 알고있어야 하기에 새로운 센서,보드를 사용할때마다 공부해나가야하는 어려움. 
  - 실제 농장에 아두이노를 설치할때 기본적으로 제공되는 케이블의 길이가 너무 짧았고, 습기에 대해 안전한 UTP선으로 대체하기로 했습니다. 
  - 베트남 현지 사람들과 작업을 하는데에 있어서 의사소통이 잘 안되는 어려움이 있었습니다.
- 
-<hr>
+-->
+
 
 ### 9. 학교 시설 유지보수 관리 시스템( 저장소: https://github.com/rbrbrb7290/facility-management )<br>
 - **개발 정보: SpringBoot, JPA, Hibernate, Google AppEngine/Cloud SQL &nbsp; 
