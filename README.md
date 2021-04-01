@@ -12,7 +12,7 @@
   
 ## Project
 
-### 1. 두둥탁(Do Doong Tack!)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
+### 1. 두둥탁(Doo Doong Tak!)( 저장소: https://github.com/rbrbrb7290/WebPublishing-Service )
 - **개발 정보:JAVA, Spring Boot, Docker, JavaScript, Thymeleaf**
 - **개발 기간: 2019.04 - 2019.11**
 - **유형: 개인 프로젝트**
