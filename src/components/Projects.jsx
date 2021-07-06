@@ -1,20 +1,14 @@
-import React, {useState, useEffect} from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import { useHistory } from 'react-router-dom'
+import styled from 'styled-components'
 import project from '../data/Project'
 
-function Project() {
-    const [show, setShow] = useState()
-    useEffect(() => {
-        setTimeout(() => {
-            setShow(true);
-        },600)
-    },[])
+function Project({show}) {
     const history = useHistory()
-    const goProjectDetail = (movieInfo) => {
+    const goProject = (project) => {
         history.push({
-            pathname: `/detail/${movieInfo.title}/`,
-            state: movieInfo
+            pathname: `/project/${project.title}/`,
+            state: project
         })
     }
     return (
@@ -23,7 +17,11 @@ function Project() {
             {
                 project.list.map( (data, index) => {
                     return (
-                        <Thumbnail show={show} key={index}  onClick={() => goProjectDetail(data)}>
+                        <Thumbnail 
+                            key={index}
+                            show={show}   
+                            onClick={() => goProject(data)}
+                        >
                             <Img src={data.thumbnail} alt={data.title}></Img>
                         <Title>{data.title}</Title>    
                         </Thumbnail>
@@ -86,5 +84,5 @@ const Title = styled.span`
 const Img = styled.img`
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
 `

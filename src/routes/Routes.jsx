@@ -1,12 +1,13 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import { createGlobalStyle } from 'styled-components'
-import Detail from '../components/Detail'
+import ProjectDetail from '../components/ProjectDetail'
 import Main from '../components/Main'
 
 const GlobalStyle = createGlobalStyle`
     html, body, #root { 
         font-size: 14px;
+        font-family: NanumSquare,sans-serif;
         width: 100%;
         height: 100%;
         margin: 0 auto;
@@ -31,7 +32,7 @@ function Routes() {
             <GlobalStyle />
             <Switch>
                 <Route exact path="/" component={Main} />
-                <Route exact path="/detail/:title/" component={Detail} /> 
+                <Route exact path="/project/:title/" component={ProjectDetail} /> 
                 <Route component={Main} />
             </Switch>
         </Router>

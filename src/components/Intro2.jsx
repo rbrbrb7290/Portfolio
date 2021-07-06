@@ -1,25 +1,15 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import styled from 'styled-components'
 
-function Intro2() {
-    const [show, setShow] = useState()
-    useEffect(() => {
-        setTimeout(() => {
-            setShow(true);
-        },600)
-    },[])
-
+function Intro2({show}) {
     return (
         <Wrap id="intro2">
             <IntroWrap show={show}>
-                <h2>PortFolio</h2> 
+                <h2>Skill</h2> 
                 <Profile>
-                 <Title show={show}>
-  
-                 </Title>
-                 <Info show={show}>
-              
-                 </Info>
+                 <Title show={show}></Title>
+                 <Info show={show}>Java</Info>
+                 <Info show={show}>Javascript</Info>
                 </Profile>
             </IntroWrap>
         </Wrap>

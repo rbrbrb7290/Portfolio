@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 
 function SideMenu() {
-
     const [active , setActive] = useState(false)
     const scrollPage = (elementId) => {
         setActive(elementId)
@@ -48,5 +47,4 @@ const Button = styled.div`
     border-radius: 50%;
     margin-bottom: 1rem;
     border: 0.1px solid #cecece;
-    /* box-shadow : 1px 1px 1px 1px #000 ; */
 `
